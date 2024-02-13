@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Loans related Production APIs "
+  message: "Welcome to Loans related Prod APIs "
   contactDetails:
     name: "Raj-Loan - PO"
     email: "raj@abc.com"

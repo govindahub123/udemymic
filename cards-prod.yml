@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Card Service related PROD CARD APIs "
+  message: "Welcome to Card Service related webhook APIs "
   contactDetails:
     name: "Raj-Card - PO"
     email: "raj@abc.com"

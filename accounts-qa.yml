@@ -1,0 +1,14 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Bank accounts related QA APIs "
+  contactDetails:
+    name: "Rahul - QA Lead"
+    email: "raj@abc.com"
+  onCallSupport:
+    - (555) 555-123456
+    - (555) 523-134556
+
+
+

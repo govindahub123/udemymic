@@ -1,0 +1,14 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to Loan related QA APIs "
+  contactDetails:
+    name: "Rahul-Loan - QA Lead"
+    email: "raj@abc.com"
+  onCallSupport:
+    - (555) 555-12345612
+    - (555) 523-13455612
+
+
+

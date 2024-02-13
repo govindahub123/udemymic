@@ -1,0 +1,14 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to Card Services related QA APIs "
+  contactDetails:
+    name: "Rahul-Card - QA Lead"
+    email: "raj@abc.com"
+  onCallSupport:
+    - (555) 555-12345633
+    - (555) 523-13455634
+
+
+

@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to Loan related local APIs "
+  contactDetails:
+    name: "Rahul Raj-Loan - Developer"
+    email: "raj@abc.com"
+    onCallSupport:
+      - (555) 555-123490
+      - (555) 523-134590

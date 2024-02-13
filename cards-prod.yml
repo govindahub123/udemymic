@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Card Service related Prod APIs "
+  message: "Welcome to Card Service related Production APIs "
   contactDetails:
     name: "Raj-Card - PO"
     email: "raj@abc.com"
